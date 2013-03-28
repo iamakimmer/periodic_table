@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'periodic_table/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "periodic_table"
+  spec.name          = "periodic_table_info"
   spec.version       = PeriodicTable::VERSION
   spec.authors       = ["Matthew Kim"]
   spec.email         = ["matthewjkim@gmail.com"]
