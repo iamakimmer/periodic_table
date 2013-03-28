@@ -1,0 +1,2 @@
+require 'periodic_table'
+
