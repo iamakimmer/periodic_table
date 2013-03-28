@@ -1,6 +1,9 @@
 # PeriodicTable
 
-TODO: Write a gem description
+This gem allows you to look up elements from the periodic table using
+
+http://www.webservicex.net/periodictable.asmx?WSDL
+and parse XML using Savon
 
 ## Installation
 
